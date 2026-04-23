@@ -1,0 +1,23 @@
+# Data
+data/EuroSAT_RGB/
+data/*.npy
+data/*.pkl
+data/*.tif
+
+# Results
+results/
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
