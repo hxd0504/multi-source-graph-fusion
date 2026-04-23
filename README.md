@@ -61,7 +61,7 @@ python experiments/exp1_segmentation_ablation.py
 | EKG-only | — | — | — |
 | **Fusion (ours)** | **—** | **—** | **—** |
 
-*(Fill in after running experiments on your data)*
+等待论文展出后公布具体数值
 
 ## Paper
 
